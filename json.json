@@ -1,0 +1,81 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "बिहार के रोचक तथ्य",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "इसे अभी के लिए छोड़ दें",
+                        "जाने दो",
+                        "रद्द कर दो",
+                        "इसे रद्द करें",
+                        "अंतिम शब्द रद्द करें",
+                        "don't",
+                        "do not",
+                        "cancel last word",
+                        "cancel"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "help me",
+                        "please help me",
+                        "i need help",
+                        "मुझे मदद की ज़रूरत है",
+                        "कृपया मेरी मदद करें",
+                        "help",
+                        "मेरी मदद करो"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "कृपया इसे अभी रोकें",
+                        "stop it now",
+                        "अब बस करो",
+                        "बंद करो",
+                        "stop",
+                        "रुकें"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": [
+                        "go home now",
+                        "अभी घर जाओ",
+                        "home",
+                        "go back home",
+                        "घर वापस जाओ",
+                        "go to home",
+                        "घर जाओ"
+                    ]
+                },
+                {
+                    "name": "HelloWorldIntent",
+                    "slots": [],
+                    "samples": [
+                        "hi",
+                        "hello",
+                        "नमस्ते मित्र",
+                        "नमस्ते friend",
+                        "नमस्ते",
+                        "नमस्ते दुनिया"
+                    ]
+                },
+                {
+                    "name": "GetFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "कुछ तथ्य सुनाओ",
+                        "तथ्यों को कहो",
+                        "कुछ सुनाओ",
+                        "हमें तथ्य सुनने दो"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
