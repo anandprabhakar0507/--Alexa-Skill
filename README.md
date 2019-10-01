@@ -1,2 +1,2 @@
 # --Alexa-Skill
- बिहार के रोचक तथ्य alexa skill created by me
+ बिहार के रोचक तथ्य alexa skill created by me skill
